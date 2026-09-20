@@ -1,0 +1,43 @@
+# Arquivos auxiliares do LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+
+# Bibliografia
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+
+# Índices
+*.idx
+*.ilg
+*.ind
+
+# Glossários
+*.glo
+*.gls
+*.glg
+*.ist
+
+# Beamer
+*.nav
+*.snm
+*.vrb
+
+# Arquivos temporários
+*.bak
+*.swp
+*.tmp
+
+# Pasta de saída, se você usar uma
+_build/
+
+*.pdf
